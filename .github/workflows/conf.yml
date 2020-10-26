@@ -1,4 +1,4 @@
-name: 爱奇艺签到抽奖
+name: 爱奇艺签到抽奖 
 on:
   schedule:
     - cron: 10 20  * * *
